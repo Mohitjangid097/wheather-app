@@ -1,0 +1,43 @@
+{
+    "coord": {
+    "lon": 75.8167,
+    "lat": 26.9167
+    },
+    "weather": [
+    {
+    "id": 701,
+    "main": "Mist",
+    "description": "mist",
+    "icon": "50n"
+    }
+    ],
+    "base": "stations",
+    "main": {
+    "temp": 302.77,
+    "feels_like": 309.77,
+    "temp_min": 302.77,
+    "temp_max": 302.77,
+    "pressure": 1002,
+    "humidity": 89
+    },
+    "visibility": 3000,
+    "wind": {
+    "speed": 2.57,
+    "deg": 300
+    },
+    "clouds": {
+    "all": 40
+    },
+    "dt": 1658263094,
+    "sys": {
+    "type": 1,
+    "id": 9170,
+    "country": "IN",
+    "sunrise": 1658276073,
+    "sunset": 1658325072
+    },
+    "timezone": 19800,
+    "id": 1269515,
+    "name": "Jaipur",
+    "cod": 200
+    }
